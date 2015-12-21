@@ -35,12 +35,12 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ###Variables
 - Subject - Integer ID for each subject
 - Activity - Integer identifier for each activity
-  1. WALKING
-  2. WALKING_UPSTAIRS
-  3. WALKING_DOWNSTAIRS
-  4. SITTING
-  5. STANDING
-  6. LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
 Each variable accounts for the average for each pair of Subject and Activity.
 - Mean of Time body acceleration along X, Y and Z axes
